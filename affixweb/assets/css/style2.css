@@ -1,0 +1,71 @@
+footer{
+    background-color: #222973;
+}
+.subscribe-section{
+    background-color: #222973;
+}
+.main{
+    background-color: white;
+}
+.color-sky{
+    color: #A7A9C7;
+}
+.color-blue{
+    color: #2F2B60;
+}
+.color{
+    color: #43458A;
+}
+.adress{
+    background-color: white;
+}
+.item-middle{
+    align-items: center;
+}
+.banner-gradient{
+   background-image: linear-gradient(355.5deg, white 30%, #222973 30%);
+  /*  background-image: linear-gradient(to bottom left, rgb(5, 5, 79),rgb(203, 86, 36));*/
+}
+.company{
+    background-color: white;
+}
+.all-service{
+    background-color:#FBF6F3
+}
+main{
+    background-color: white;
+}
+.process{
+    background-color:#222973;
+
+}
+.number{
+    font-size: 64px;
+    color: #43458A;
+    line-height: 1.1;
+}
+header{
+    background-color: white;
+}
+.our-team{
+    background-color: #1B252F;
+}
+.map{
+    background-color: white;
+}
+.a{
+    border: 2px solid blue;
+}
+.submit{
+    background-color: white;
+}
+.web-server{
+
+}
+.b{
+    border: 2px solid black;
+
+}
+.dreams{
+    background-color: #71D0F6;
+}
